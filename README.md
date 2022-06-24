@@ -1,4 +1,4 @@
-# Resource pack that adds 5 models of different katana. OptiFine or CIT Resewn is required.
+# Resource pack that adds 5 models of different katana. [OptiFine](https://optifine.net/downloads) or [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn/files) is required.
 
 ![katanas-pack-preview](https://user-images.githubusercontent.com/90050280/175600790-1d5238fb-7f1c-4d4f-aa44-d553ca86a530.png)
 
