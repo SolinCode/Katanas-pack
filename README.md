@@ -27,8 +27,8 @@ Mods > CIT Resewn > Configure > Enabled: Yes
 
 
 ## Tested versions:
-1.19.x
-1.18.x
-1.17.x
+1.19.x (CIT Resewn)
+1.18.x (OptiFine)
+1.17.x (OptiFine)
 ____
 Thank you! <3
