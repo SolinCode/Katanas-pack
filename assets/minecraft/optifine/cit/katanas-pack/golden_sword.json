@@ -1,0 +1,7 @@
+{
+    "parent": "./body_sword",
+    "textures": {
+        "1": "./textures/katana_golden",
+        "particle": "./textures/katana_golden"
+    }
+}
