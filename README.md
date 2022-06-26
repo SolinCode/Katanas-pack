@@ -1,6 +1,6 @@
-# Resource pack that adds 5 models of different katana. [OptiFine](https://optifine.net/downloads) or [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn/files) is required.
+# Resource pack that adds 5 models of different katana.<br> [OptiFine](https://optifine.net/downloads) or [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn/files) is required.
 
-![katanas-pack-preview](https://user-images.githubusercontent.com/90050280/175600790-1d5238fb-7f1c-4d4f-aa44-d553ca86a530.png)
+![main](https://user-images.githubusercontent.com/90050280/175798710-64950ecd-4d6c-4c3b-81b0-3842184fdf85.png)
 <div align="center">
     <a href="https://www.curseforge.com/minecraft/texture-packs/katanas-pack">CurseForge</a>
     <span> | </span>
@@ -17,6 +17,8 @@ minecraft:diamond_sword -> Diamond Katana
 minecraft:netherite_sword -> Netherite Katana
 ```
 
+## Preview
+![preview](https://user-images.githubusercontent.com/90050280/175798721-1b6242bc-07de-47ea-9205-c5d37b760913.png)
 
 ## For OptiFine:
 Video Settings > Quality > Custom Items: ON
@@ -36,5 +38,3 @@ Mods > CIT Resewn > Configure > Enabled: Yes
 1.18.x (OptiFine)
 1.17.x (OptiFine)
 ```
-____
-Thank you! <3
