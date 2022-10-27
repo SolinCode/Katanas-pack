@@ -4,8 +4,6 @@
 <div align="center">
     <a href="https://www.curseforge.com/minecraft/texture-packs/katanas-pack">CurseForge</a>
     <span> | </span>
-    <a href="https://github.com/SolinCode/Katanas-Pack">GitHub</a>
-    <span> | </span>
     <a href="https://modrinth.com/resourcepack/katanas-pack">Modrinth</a>
 </div>
 
